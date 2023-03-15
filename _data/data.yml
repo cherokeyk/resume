@@ -179,10 +179,25 @@ skills:
         level: 85%
         
       - name: SQL
-        level: 80%
+        level: 90%
 
       - name: Scala
         level: 65%
+
+      - name: Python
+        level: 45%
+
+      - name: Apache Spark
+        level: 50%
+
+      - name: MySQL
+        level: 85%
+
+      - name: Amazon Redshift
+        level: 80%
+
+      - name: REST APIs
+        level: 40%
 
       - name: Illustartor
         level: 60%
